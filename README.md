@@ -18,3 +18,7 @@ For IE Masters Class Fifth Lab in Software Management and Development
 ## Author
 
 paulhgeorge-creator
+
+## Setup
+
+Install [uv](https://docs.astral.sh/uv/), clone the repository, then run `uv run ledger balance`. uv creates the `.venv` for you.
